@@ -1,0 +1,2 @@
+com.sample.legacy.PropertyFileUserStorageProviderFactory
+com.sample.legacy.jpa.EjbUserStorageProviderFactory
